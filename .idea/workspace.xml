@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fadb12df-878a-4bbb-a0d6-81682743d404" name="Changes" comment="Added : Stop Watch">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/junittesting/VendingMachine.java" afterDir="false" />
+    <list default="true" id="fadb12df-878a-4bbb-a0d6-81682743d404" name="Changes" comment="Added : Vending Machine">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/junittesting/DayOFWeek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     "last_opened_file_path": "C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Day6_Logical_and_JUnit_Testing"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VendingMachine">
+  <component name="RunManager" selected="Application.DayOFWeek">
     <configuration name="CouponNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.logical.CouponNumbers" />
       <module name="Day6_Logical_and_JUnit_Testing" />
@@ -53,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.logical.FibonacciSeries" />
+    <configuration name="DayOFWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.junittesting.DayOFWeek" />
       <module name="Day6_Logical_and_JUnit_Testing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.logical.*" />
+          <option name="PATTERN" value="com.bridgelabz.junittesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.logical.PerfectNumber" />
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.logical.FibonacciSeries" />
       <module name="Day6_Logical_and_JUnit_Testing" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayOFWeek" />
         <item itemvalue="Application.VendingMachine" />
         <item itemvalue="Application.StopWatch" />
         <item itemvalue="Application.CouponNumbers" />
         <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.PerfectNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666371304293</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added : Vending Machine">
+      <created>1666371965826</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666371965826</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +186,7 @@
     <MESSAGE value="Added : Fibonacci Series" />
     <MESSAGE value="Added : Coupon Numbers" />
     <MESSAGE value="Added : Stop Watch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Stop Watch" />
+    <MESSAGE value="Added : Vending Machine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Vending Machine" />
   </component>
 </project>
