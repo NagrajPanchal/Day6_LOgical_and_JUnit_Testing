@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fadb12df-878a-4bbb-a0d6-81682743d404" name="Changes" comment="Added : Find Day of Week">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/junittesting/TemperaturConversion.java" afterDir="false" />
+    <list default="true" id="fadb12df-878a-4bbb-a0d6-81682743d404" name="Changes" comment="Added : Temperatur Conversion">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/junittesting/MonthlyPayment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +39,13 @@
     "last_opened_file_path": "C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Day6_Logical_and_JUnit_Testing"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TemperaturConversion">
-    <configuration name="CouponNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.logical.CouponNumbers" />
+  <component name="RunManager" selected="Application.MonthlyPayment">
+    <configuration name="DayOFWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.junittesting.DayOFWeek" />
       <module name="Day6_Logical_and_JUnit_Testing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.logical.*" />
+          <option name="PATTERN" value="com.bridgelabz.junittesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DayOFWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.junittesting.DayOFWeek" />
+    <configuration name="MonthlyPayment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.junittesting.MonthlyPayment" />
       <module name="Day6_Logical_and_JUnit_Testing" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MonthlyPayment" />
         <item itemvalue="Application.TemperaturConversion" />
         <item itemvalue="Application.DayOFWeek" />
         <item itemvalue="Application.VendingMachine" />
         <item itemvalue="Application.StopWatch" />
-        <item itemvalue="Application.CouponNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666372435635</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added : Temperatur Conversion">
+      <created>1666373268042</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666373268042</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +202,7 @@
     <MESSAGE value="Added : Stop Watch" />
     <MESSAGE value="Added : Vending Machine" />
     <MESSAGE value="Added : Find Day of Week" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Find Day of Week" />
+    <MESSAGE value="Added : Temperatur Conversion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Temperatur Conversion" />
   </component>
 </project>
