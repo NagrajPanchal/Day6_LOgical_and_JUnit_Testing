@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fadb12df-878a-4bbb-a0d6-81682743d404" name="Changes" comment="Added : Fibonacci Series">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/logical/CouponNumbers.java" afterDir="false" />
+    <list default="true" id="fadb12df-878a-4bbb-a0d6-81682743d404" name="Changes" comment="Added : Coupon Numbers">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/logical/StopWatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     "last_opened_file_path": "C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Day6_Logical_and_JUnit_Testing"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CouponNumbers">
+  <component name="RunManager" selected="Application.StopWatch">
     <configuration name="CouponNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.logical.CouponNumbers" />
       <module name="Day6_Logical_and_JUnit_Testing" />
@@ -79,19 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumberOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.logical.PrimeNumberOrNot" />
-      <module name="Day6_Logical_and_JUnit_Testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.logical.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.logical.ReverseNumber" />
       <module name="Day6_Logical_and_JUnit_Testing" />
@@ -105,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.logical.StopWatch" />
+      <module name="Day6_Logical_and_JUnit_Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.logical.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StopWatch" />
         <item itemvalue="Application.CouponNumbers" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.PerfectNumber" />
         <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.PrimeNumberOrNot" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664728269802</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added : Coupon Numbers">
+      <created>1666370160475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666370160475</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +170,7 @@
     <MESSAGE value="Added : Prime Number or not" />
     <MESSAGE value="Added : Reverse Number" />
     <MESSAGE value="Added : Fibonacci Series" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Fibonacci Series" />
+    <MESSAGE value="Added : Coupon Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Coupon Numbers" />
   </component>
 </project>
