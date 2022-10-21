@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fadb12df-878a-4bbb-a0d6-81682743d404" name="Changes" comment="Added : Temperatur Conversion">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/junittesting/MonthlyPayment.java" afterDir="false" />
+    <list default="true" id="fadb12df-878a-4bbb-a0d6-81682743d404" name="Changes" comment="Added : Monthly Payment">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/junittesting/SqrtFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     "last_opened_file_path": "C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Day6_Logical_and_JUnit_Testing"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MonthlyPayment">
+  <component name="RunManager" selected="Application.SqrtFunction">
     <configuration name="DayOFWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.junittesting.DayOFWeek" />
       <module name="Day6_Logical_and_JUnit_Testing" />
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.logical.StopWatch" />
+    <configuration name="SqrtFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.junittesting.SqrtFunction" />
       <module name="Day6_Logical_and_JUnit_Testing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.logical.*" />
+          <option name="PATTERN" value="com.bridgelabz.junittesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SqrtFunction" />
         <item itemvalue="Application.MonthlyPayment" />
         <item itemvalue="Application.TemperaturConversion" />
         <item itemvalue="Application.DayOFWeek" />
         <item itemvalue="Application.VendingMachine" />
-        <item itemvalue="Application.StopWatch" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666373268042</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added : Monthly Payment">
+      <created>1666373704158</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666373704158</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +210,7 @@
     <MESSAGE value="Added : Vending Machine" />
     <MESSAGE value="Added : Find Day of Week" />
     <MESSAGE value="Added : Temperatur Conversion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Temperatur Conversion" />
+    <MESSAGE value="Added : Monthly Payment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Monthly Payment" />
   </component>
 </project>
