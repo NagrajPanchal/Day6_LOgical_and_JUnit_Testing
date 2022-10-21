@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fadb12df-878a-4bbb-a0d6-81682743d404" name="Changes" comment="Added : Monthly Payment">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/junittesting/SqrtFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fadb12df-878a-4bbb-a0d6-81682743d404" name="Changes" comment="Added : square root of a non-negative number">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/junittesting/BinaryConversion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,20 @@
     "last_opened_file_path": "C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Day6_Logical_and_JUnit_Testing"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SqrtFunction">
+  <component name="RunManager" selected="Application.BinaryConversion">
+    <configuration name="BinaryConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.junittesting.BinaryConversion" />
+      <module name="Day6_Logical_and_JUnit_Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.junittesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DayOFWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.junittesting.DayOFWeek" />
       <module name="Day6_Logical_and_JUnit_Testing" />
@@ -92,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VendingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.junittesting.VendingMachine" />
-      <module name="Day6_Logical_and_JUnit_Testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.junittesting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryConversion" />
         <item itemvalue="Application.SqrtFunction" />
         <item itemvalue="Application.MonthlyPayment" />
         <item itemvalue="Application.TemperaturConversion" />
         <item itemvalue="Application.DayOFWeek" />
-        <item itemvalue="Application.VendingMachine" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666373704158</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added : square root of a non-negative number">
+      <created>1666374012551</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666374012551</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,6 +217,7 @@
     <MESSAGE value="Added : Find Day of Week" />
     <MESSAGE value="Added : Temperatur Conversion" />
     <MESSAGE value="Added : Monthly Payment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Monthly Payment" />
+    <MESSAGE value="Added : square root of a non-negative number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : square root of a non-negative number" />
   </component>
 </project>
